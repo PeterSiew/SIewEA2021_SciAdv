@@ -20,3 +20,4 @@ CESM1-LENS data are available from the NCAR Climate Data Gateway: https://www.ea
 
 Codes
 ----------
+Codes are written in Python. Libraries required are: mumpy, xarray, scipy, matplotlib and pandas
