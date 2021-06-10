@@ -1,1 +1,1 @@
-# SiewEA2021_SciAdv
+North Atlantic Oscillation in winter is largely insensitive to autumn Barents-Kara sea ice variability
