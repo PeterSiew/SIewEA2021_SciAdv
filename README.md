@@ -10,11 +10,11 @@ This paper was published in XX. Comments and suggestions are appreciated. Please
 
 Data 
 ----------
-The ECMWF ERA5 reanalysis data used in the study are available from the Copernicus Climate Change Service (C3S) Climate Data Store: https://cds.climate.copernicus.eu/.
+The ECMWF ERA5 reanalysis data are available from the Copernicus Climate Change Service (C3S) Climate Data Store: https://cds.climate.copernicus.eu/.
 
-The NOAA-CIRES-DOE 20th Century Reanalysis V3 data used in the study are available from the NOAA Physical Sciences Laboratory (PSL): https://https://psl.noaa.gov/
+The NOAA-CIRES-DOE 20th Century Reanalysis V3 data are available from the NOAA Physical Sciences Laboratory (PSL): https://https://psl.noaa.gov/
 
-CMIP5 and CMIP6 data used in the study are available from the Earth System Grid Federation: https://esgf-node.llnl.gov/projects/esgf-llnl/. 
+CMIP5 and CMIP6 data are available from the Earth System Grid Federation: https://esgf-node.llnl.gov/projects/esgf-llnl/. 
 
 CESM1-LENS data are available from the NCAR Climate Data Gateway: https://www.earthsystemgrid.org/. 
 
