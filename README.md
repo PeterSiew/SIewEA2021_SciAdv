@@ -1,6 +1,6 @@
 Background
 ----------
-This repository contains the codes to construct Figures 2, 3 and 4 (the bootstrapping tests) in Siew et al. 2021
+Codes to construct Figures 2, 3 and 4 (the bootstrapping tests) in Siew et al. 2021
 
 P. Y. F. Siew, C. Li, M. Ting, S. P. Sobolowski, Y. Wu, X. Chen, North Atlantic Oscillation in winter is largely insensitive to autumn Barents-Kara sea ice variability, Science Advances, 2021
 
