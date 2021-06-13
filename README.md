@@ -1,16 +1,16 @@
 Background
 ----------
-Codes to construct Figures 2, 3 and 4 (the bootstrapping tests) in Siew et al. 2021
+This repository contains the code to construct Figures 2, 3 and 4 (the bootstrapping tests) in Siew et al. 2021
 
 P. Y. F. Siew, C. Li, M. Ting, S. P. Sobolowski, Y. Wu, X. Chen, North Atlantic Oscillation in winter is largely insensitive to autumn Barents-Kara sea ice variability, Science Advances, 2021
 
 Status
 ----------
-This paper was published in XX. Comments and suggestions are appreciated. Please send them to my email yu.siew@uib.no 
+More intructions and comments will be addeded. Suggestions are appreciated. Please send any questions to my email yu.siew@uib.no 
 
 Data 
 ----------
-The folder "data" includes the required time series from the reanalysis and models
+The folder data includes the required time series from the reanalysis and models. Time series include Barents-Kara sea ice index (BKSICE), turbulent heat flux over Barents-Kara sea (BKSTHF), sea level pressure over Urals (URALS), polar cap height at 50 hPa (PCH50) and NAO (NAOSLPbased).
 
 The ECMWF ERA5 reanalysis data are available from the Copernicus Climate Change Service (C3S) Climate Data Store: https://cds.climate.copernicus.eu/.
 
@@ -24,16 +24,16 @@ Codes
 ----------
 Codes are written in Python. Libraries required are: numpy, xarray, scipy, matplotlib, pandas and datetime
 
-reload_tools.py: tools for initializing and reading the time series
+reload_tools.py: tools for initializing and reading the time series.
 
-bootstrap_tools.py: tools for randome suffling with replacement (i.e., the bootstrapping) and selecting the targeted bootstrapped samples
+bootstrap_tools.py: tools for reshuffling with replacement (i.e., the bootstrapping) and selecting the targeted bootstrapped samples.
 
-correlation_tools.py: tools for calculating multiple correlations in a vectorized way (the advantage is to minimize the "for loops")
+correlation_tools.py: tools for calculating multiple correlations in a vectorized way (to minimize too many "for loops").
 
 plotting_tools.py: tools for plotting the figures
 
-figure2.py: constucting Figure 2
+figure2.py: constucting Figure 2 in the paper
 
-figure3.py: constucting Figure 3
+figure3.py: constucting Figure 3 in the paper
 
-figure4.py: constucting Figure 4
+figure4.py: constucting Figure 4 in the paper
