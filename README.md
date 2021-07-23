@@ -10,7 +10,7 @@ More intructions and comments will be addeded. Suggestions are appreciated. Plea
 
 Data 
 ----------
-The folder "timeseries_data" contains the time series used in the study. Time series include Barents-Kara sea ice index (BKSICE), turbulent heat flux over Barents-Kara sea (BKSTHF), sea level pressure over Urals (URALS), polar cap height at 50 hPa (PCH50) and NAO (NAOSLPbased). All time series are in monthly resolution. 
+The folder "timeseries_data" contains the time series used in the study. Time series include Barents-Kara sea ice index (BKSICE), turbulent heat flux over Barents-Kara sea (BKSTHF), sea level pressure over Urals (URALS), polar cap height at 50 hPa (PCH50) and NAO (NAOSLPbased). All time series are in monthly resolution and anomalies (removing monthly climatology).
 
 The ECMWF ERA5 reanalysis data are available from the Copernicus Climate Change Service (C3S) Climate Data Store: https://cds.climate.copernicus.eu/.
 
