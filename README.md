@@ -24,7 +24,7 @@ Codes
 ----------
 Codes are written in Python. Libraries required are: numpy, xarray, scipy, matplotlib, pandas and datetime
 
-reload_tools.py: tools for initializing and reading the time series.
+read_tools.py: tools for initializing and reading the time series.
 
 bootstrap_tools.py: tools for reshuffling with replacement (i.e., the bootstrapping) and selecting the targeted bootstrapped samples.
 
